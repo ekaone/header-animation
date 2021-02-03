@@ -1,1 +1,2 @@
-👉 Learn more [Header animation](https://www.finisher.co/lab/header/)
+- 👉 Learn more [Header animation](https://www.finisher.co/lab/header/)
+- 👉 Awesome read [header animation](https://dev.to/kimyanna/freebie-animated-website-header-generator-31ki)
